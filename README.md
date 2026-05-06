@@ -32,7 +32,8 @@ El objetivo es aplicar conceptos de programación en red, modularización y gest
 ### 1. Iniciar el servidor
 ```bash
 python servidor.py
-
+```
+---
 
 ### ¿Por qué hashear contraseñas?
 Constituye una práctica esencial en el ámbito de la seguridad informática, que consiste en aplicar una función criptográfica que transforma la contraseña original en una cadena irreconocible e irreversible. De esta manera, incluso si la base de datos fuera comprometida, los atacantes no podrían recuperar las contraseñas reales de los usuarios.
